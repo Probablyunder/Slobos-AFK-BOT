@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TDSCpeak.aternos.me",
+    "ip": "TDSCSurvival.aternos.me",
     "port": 52619,
-    "version": "1.21.1"
+    "version": "1.8.0"
   },
   "position": {
     "enabled": true,
@@ -26,8 +26,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
