@@ -8,7 +8,7 @@
   "server": {
     "ip": "TDSCSurvival.aternos.me",
     "port": 52619,
-    "version": "1.13.1"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
